@@ -12,19 +12,19 @@ As I stated, this is _my_ learning journey. But I also try to document the code 
 
 ## Current progress and features:
 
-[x] Project structure setup and build system with CMake
+-   [x] Project structure setup and build system with CMake
 
-[x] Tokenize the expression and return the `tokens` vector.
+-   [x] Tokenize the expression and return the `tokens` vector.
 
-[ ] Build the expression tree
+-   [ ] Build the expression tree
 
-[ ] Compute simple arithmetic expressions with `+ - / *`
+-   [ ] Compute simple arithmetic expressions with `+ - / *`
 
-[ ] Implement parentheses `()`
+-   [ ] Implement parentheses `()`
 
-[ ] Implement `floating point` numbers
+-   [ ] Implement `floating point` numbers
 
-[ ] Implement constants like `pi`, `e` etc.
+-   [ ] Implement constants like `pi`, `e` etc.
 
 ## Resources
 
